@@ -1,13 +1,14 @@
-#Pizzeria Reza
+# Pizzeria Reza
 
-##bd_pizzeriareza
+## bd_pizzeriareza
 
-###pedidos
+### pedidos
 
-###Imagen
+###Pagina Principal 
 ![image](https://github.com/HectorRezaRamirez18/pizzeriaCrudRz/assets/143548137/45c3e849-745b-4c68-930b-5703a8c15d1a)
 
-(![image](https://github.com/HectorRezaRamirez18/pizzeriaCrudRz/assets/143548137/8020d492-ce97-4e55-8081-28159f3d1d82)
+###Apartado Para agregar nuevo pedido
+![image](https://github.com/HectorRezaRamirez18/pizzeriaCrudRz/assets/143548137/8020d492-ce97-4e55-8081-28159f3d1d82)
 )
 (![image](https://github.com/HectorRezaRamirez18/pizzeriaCrudRz/assets/143548137/b45a46e0-f80d-4359-8aca-dc4fcd1c51e0)
 )
